@@ -15,5 +15,9 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func keyPressed(_ sender: UIButton) {
+        //Force Unwrapping as in UI the value is present
+        print(sender.titleLabel!.text!)
+    }
 }
 
