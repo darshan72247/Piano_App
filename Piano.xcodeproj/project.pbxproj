@@ -16,6 +16,20 @@
 		7D3D55612A994A8100FB229E /* PianoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3D55602A994A8100FB229E /* PianoTests.swift */; };
 		7D3D556B2A994A8100FB229E /* PianoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3D556A2A994A8100FB229E /* PianoUITests.swift */; };
 		7D3D556D2A994A8100FB229E /* PianoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D3D556C2A994A8100FB229E /* PianoUITestsLaunchTests.swift */; };
+		7D3D55AA2A9E4D6700FB229E /* Gg.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D3D559C2A9E4D6700FB229E /* Gg.wav */; };
+		7D3D55AB2A9E4D6700FB229E /* Ff.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D3D559D2A9E4D6700FB229E /* Ff.wav */; };
+		7D3D55AC2A9E4D6700FB229E /* Aa.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D3D559E2A9E4D6700FB229E /* Aa.wav */; };
+		7D3D55AD2A9E4D6700FB229E /* A.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D3D559F2A9E4D6700FB229E /* A.wav */; };
+		7D3D55AE2A9E4D6700FB229E /* Bb.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D3D55A02A9E4D6700FB229E /* Bb.wav */; };
+		7D3D55AF2A9E4D6700FB229E /* C.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D3D55A12A9E4D6700FB229E /* C.wav */; };
+		7D3D55B02A9E4D6700FB229E /* B.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D3D55A22A9E4D6700FB229E /* B.wav */; };
+		7D3D55B12A9E4D6700FB229E /* F.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D3D55A32A9E4D6700FB229E /* F.wav */; };
+		7D3D55B22A9E4D6700FB229E /* Cc.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D3D55A42A9E4D6700FB229E /* Cc.wav */; };
+		7D3D55B32A9E4D6700FB229E /* G.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D3D55A52A9E4D6700FB229E /* G.wav */; };
+		7D3D55B42A9E4D6700FB229E /* E.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D3D55A62A9E4D6700FB229E /* E.wav */; };
+		7D3D55B52A9E4D6700FB229E /* D.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D3D55A72A9E4D6700FB229E /* D.wav */; };
+		7D3D55B62A9E4D6700FB229E /* Ee.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D3D55A82A9E4D6700FB229E /* Ee.wav */; };
+		7D3D55B72A9E4D6700FB229E /* Dd.wav in Resources */ = {isa = PBXBuildFile; fileRef = 7D3D55A92A9E4D6700FB229E /* Dd.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +63,20 @@
 		7D3D55662A994A8100FB229E /* PianoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PianoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D3D556A2A994A8100FB229E /* PianoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PianoUITests.swift; sourceTree = "<group>"; };
 		7D3D556C2A994A8100FB229E /* PianoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PianoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7D3D559C2A9E4D6700FB229E /* Gg.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Gg.wav; sourceTree = "<group>"; };
+		7D3D559D2A9E4D6700FB229E /* Ff.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Ff.wav; sourceTree = "<group>"; };
+		7D3D559E2A9E4D6700FB229E /* Aa.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Aa.wav; sourceTree = "<group>"; };
+		7D3D559F2A9E4D6700FB229E /* A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A.wav; sourceTree = "<group>"; };
+		7D3D55A02A9E4D6700FB229E /* Bb.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Bb.wav; sourceTree = "<group>"; };
+		7D3D55A12A9E4D6700FB229E /* C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = C.wav; sourceTree = "<group>"; };
+		7D3D55A22A9E4D6700FB229E /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
+		7D3D55A32A9E4D6700FB229E /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
+		7D3D55A42A9E4D6700FB229E /* Cc.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Cc.wav; sourceTree = "<group>"; };
+		7D3D55A52A9E4D6700FB229E /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
+		7D3D55A62A9E4D6700FB229E /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
+		7D3D55A72A9E4D6700FB229E /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
+		7D3D55A82A9E4D6700FB229E /* Ee.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Ee.wav; sourceTree = "<group>"; };
+		7D3D55A92A9E4D6700FB229E /* Dd.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Dd.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +133,7 @@
 				7D3D554F2A994A7E00FB229E /* Main.storyboard */,
 				7D3D55522A994A8100FB229E /* Assets.xcassets */,
 				7D3D55542A994A8100FB229E /* LaunchScreen.storyboard */,
+				7D3D559B2A9E4D6700FB229E /* piano_notes */,
 				7D3D55572A994A8100FB229E /* Info.plist */,
 			);
 			path = Piano;
@@ -125,6 +154,28 @@
 				7D3D556C2A994A8100FB229E /* PianoUITestsLaunchTests.swift */,
 			);
 			path = PianoUITests;
+			sourceTree = "<group>";
+		};
+		7D3D559B2A9E4D6700FB229E /* piano_notes */ = {
+			isa = PBXGroup;
+			children = (
+				7D3D559C2A9E4D6700FB229E /* Gg.wav */,
+				7D3D559D2A9E4D6700FB229E /* Ff.wav */,
+				7D3D559E2A9E4D6700FB229E /* Aa.wav */,
+				7D3D559F2A9E4D6700FB229E /* A.wav */,
+				7D3D55A02A9E4D6700FB229E /* Bb.wav */,
+				7D3D55A12A9E4D6700FB229E /* C.wav */,
+				7D3D55A22A9E4D6700FB229E /* B.wav */,
+				7D3D55A32A9E4D6700FB229E /* F.wav */,
+				7D3D55A42A9E4D6700FB229E /* Cc.wav */,
+				7D3D55A52A9E4D6700FB229E /* G.wav */,
+				7D3D55A62A9E4D6700FB229E /* E.wav */,
+				7D3D55A72A9E4D6700FB229E /* D.wav */,
+				7D3D55A82A9E4D6700FB229E /* Ee.wav */,
+				7D3D55A92A9E4D6700FB229E /* Dd.wav */,
+			);
+			name = piano_notes;
+			path = ../../../../../Downloads/piano_notes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,9 +282,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D3D55B22A9E4D6700FB229E /* Cc.wav in Resources */,
+				7D3D55B12A9E4D6700FB229E /* F.wav in Resources */,
+				7D3D55B72A9E4D6700FB229E /* Dd.wav in Resources */,
+				7D3D55AD2A9E4D6700FB229E /* A.wav in Resources */,
+				7D3D55B02A9E4D6700FB229E /* B.wav in Resources */,
+				7D3D55AC2A9E4D6700FB229E /* Aa.wav in Resources */,
+				7D3D55AB2A9E4D6700FB229E /* Ff.wav in Resources */,
+				7D3D55AF2A9E4D6700FB229E /* C.wav in Resources */,
+				7D3D55AA2A9E4D6700FB229E /* Gg.wav in Resources */,
 				7D3D55562A994A8100FB229E /* LaunchScreen.storyboard in Resources */,
 				7D3D55532A994A8100FB229E /* Assets.xcassets in Resources */,
+				7D3D55AE2A9E4D6700FB229E /* Bb.wav in Resources */,
 				7D3D55512A994A7E00FB229E /* Main.storyboard in Resources */,
+				7D3D55B62A9E4D6700FB229E /* Ee.wav in Resources */,
+				7D3D55B52A9E4D6700FB229E /* D.wav in Resources */,
+				7D3D55B42A9E4D6700FB229E /* E.wav in Resources */,
+				7D3D55B32A9E4D6700FB229E /* G.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

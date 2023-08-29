@@ -123,7 +123,7 @@
                                 <rect key="frame" x="76" y="0.0" width="59" height="273"/>
                                 <color key="tintColor" red="0.92156862750000001" green="0.91372549020000005" blue="0.87843137250000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="C#">
+                                <buttonConfiguration key="configuration" style="plain" title="Dd">
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     </backgroundConfiguration>
@@ -137,7 +137,7 @@
                                 <rect key="frame" x="147.66666666666666" y="0.0" width="59" height="273"/>
                                 <color key="tintColor" red="0.92156862750000001" green="0.91372549020000005" blue="0.87843137250000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="D#">
+                                <buttonConfiguration key="configuration" style="plain" title="Ee">
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     </backgroundConfiguration>
@@ -151,7 +151,7 @@
                                 <rect key="frame" x="392.66666666666669" y="0.0" width="59" height="273"/>
                                 <color key="tintColor" red="0.92156862750000001" green="0.91372549020000005" blue="0.87843137250000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="E#">
+                                <buttonConfiguration key="configuration" style="plain" title="Gg">
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     </backgroundConfiguration>
@@ -165,7 +165,7 @@
                                 <rect key="frame" x="498" y="0.0" width="59" height="273"/>
                                 <color key="tintColor" red="0.92156862750000001" green="0.91372549020000005" blue="0.87843137250000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="G#">
+                                <buttonConfiguration key="configuration" style="plain" title="Aa">
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     </backgroundConfiguration>
@@ -179,7 +179,7 @@
                                 <rect key="frame" x="603.66666666666663" y="0.0" width="59" height="273"/>
                                 <color key="tintColor" red="0.92156862750000001" green="0.91372549020000005" blue="0.87843137250000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="A#">
+                                <buttonConfiguration key="configuration" style="plain" title="Bb">
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                     </backgroundConfiguration>
